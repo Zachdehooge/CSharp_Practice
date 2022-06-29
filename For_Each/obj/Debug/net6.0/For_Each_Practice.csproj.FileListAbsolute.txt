@@ -1,0 +1,30 @@
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.exe
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.deps.json
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.runtimeconfig.json
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.dll
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.pdb
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.csproj.AssemblyReference.cache
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.AssemblyInfoInputs.cache
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.AssemblyInfo.cs
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.csproj.CoreCompileInputs.cache
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.dll
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\refint\For_Each_Practice.dll
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.pdb
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.genruntimeconfig.cache
+C:\Users\dehoogzg\Desktop\CMDStuff\For_Each_Practice\obj\Debug\net6.0\ref\For_Each_Practice.dll
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.exe
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.deps.json
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.runtimeconfig.json
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.dll
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\bin\Debug\net6.0\For_Each_Practice.pdb
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.csproj.AssemblyReference.cache
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.AssemblyInfoInputs.cache
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.AssemblyInfo.cs
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.csproj.CoreCompileInputs.cache
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.dll
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\refint\For_Each_Practice.dll
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.pdb
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\For_Each_Practice.genruntimeconfig.cache
+C:\Users\dehoogzg\Desktop\CMDStuff\CSharp Practice\For_Each_Practice\obj\Debug\net6.0\ref\For_Each_Practice.dll
