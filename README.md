@@ -1,2 +1,2 @@
 # CSharp_Practice
-A repository to house small C-Sharp practice concepts
+A repository to house small C-Sharp practice applications
